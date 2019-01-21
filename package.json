@@ -1,0 +1,15 @@
+{
+  "name": "betty-js-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "test:w": "ava --watch"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  },
+  "dependencies": {
+    "deep-freeze": "^0.0.1"
+  }
+}
